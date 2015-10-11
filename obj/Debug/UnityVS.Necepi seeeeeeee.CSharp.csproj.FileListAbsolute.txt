@@ -1,0 +1,17 @@
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEditor.dll
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEngine.dll
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEngine.xml
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEditor.xml
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+G:\Necepi seeeeeeee\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+G:\Necepi seeeeeeee\obj\Debug\UnityVS.Necepi seeeeeeee.CSharp.csprojResolveAssemblyReference.cache
+G:\Necepi seeeeeeee\obj\Debug\Assembly-CSharp.dll
+G:\Necepi seeeeeeee\obj\Debug\Assembly-CSharp.pdb

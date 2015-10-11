@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: e246b973dc3207c48a734dc569e7ddb7
+timeCreated: 1444461265
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oxs0r_0
+    21300002: oxs0r_1
+    21300004: oxs0r_2
+    21300006: oxs0r_3
+    21300008: oxs0r_4
+    21300010: oxs0r_5
+    21300012: oxs0r_6
+    21300014: oxs0r_7
+    21300016: oxs0r_8
+    21300018: oxs0r_9
+    21300020: oxs0r_10
+    21300022: oxs0r_11
+    21300024: oxs0r_12
+    21300026: oxs0r_13
+    21300028: oxs0r_14
+    21300030: oxs0r_15
+    21300032: oxs0r_16
+    21300034: oxs0r_17
+    21300036: oxs0r_18
+    21300038: oxs0r_19
+    21300040: oxs0r_20
+    21300042: oxs0r_21
+    21300044: oxs0r_22
+    21300046: oxs0r_23
+    21300048: oxs0r_24
+    21300050: oxs0r_25
+    21300052: oxs0r_26
+    21300054: oxs0r_27
+    21300056: oxs0r_28
+    21300058: oxs0r_29
+    21300060: oxs0r_30
+    21300062: oxs0r_31
+    21300064: oxs0r_32
+    21300066: oxs0r_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: oxs0r_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 306
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+    - name: oxs0r_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 310
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 310
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 188
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: .26074329, y: .276178986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 188
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 190
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 190
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 188
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 104
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 104
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 104
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 102
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 105
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_21
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 104
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 16
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 16
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 16
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 16
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 16
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_29
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 16
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 16
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 19
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 19
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oxs0r_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 19
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
